@@ -1,2 +1,1 @@
-# srawnisingh.github.io
-Repository of my portfolio
+# serajkhan23.github.io
